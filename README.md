@@ -1,6 +1,17 @@
 # Windows-System-Information-Tool-PROJECT-
 The tool demonstrates key OS concepts such as process management, memory management, file systems, networking, and system calls. It interacts with system processes, retrieves memory statistics, highlights OS file system handling, accesses network configurations, and relies on Windows API system calls.
 This project is a comprehensive Windows-based application designed to provide real-time system information and resource monitoring. It leverages various Windows API functions to gather and display critical system metrics such as memory usage, disk usage, network information, CPU details, and OS version. Featuring a user-friendly graphical interface, the tool allows users to easily access detailed system information through interactive modules, message boxes, and graphical representations.
+# PROJECT SUBMITTED BY :
+
+# AAMNA NOREEN
+# BSIT51F22R030
+# BSIT 4TH
+# REGULAR
+
+# FATIMA AHMAD
+# BSIT51F22R006
+# BSIT 4TH
+# REGULAR
 
 ## How to Run
 
