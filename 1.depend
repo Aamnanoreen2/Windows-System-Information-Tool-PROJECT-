@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1584205424 source:c:\users\abc\desktop\os lab\1.final\1\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1584205424 c:\users\abc\desktop\os lab\1.final\1\resource.h
+
+1718258626 source:c:\users\abc\desktop\os lab\1.final\1\main.cpp
+	<windows.h>
+	<vector>
+	<string>
+	<iostream>
+	<cmath>
+	<psapi.h>
+
